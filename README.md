@@ -1,4 +1,4 @@
-# Hey 👋, I’m Dias Arthur 
+# Hey There!👋 
 
 Independent developer exploring algorithms, systems, and open-source design.  
 I focus on performance, and building things that just work.
