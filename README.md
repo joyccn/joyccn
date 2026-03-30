@@ -1,11 +1,9 @@
-# Hey There!👋 
+# Hey There
 
-Independent developer exploring algorithms, systems, and open-source design.  
-I focus on performance, and building things that just work.
+Independent developer exploring algorithms, systems, and open-source design.
+Focused on performance and building things that simply work.
 
-+ 🧠 : Exploring runtime optimization, and language-level abstractions.  
-+ 💡 : I like hackathons, deep dives, and late-night refactors that make everything cleaner.  
-+ 🌿 : MBTI — INTJ.  
-+ 🖋 : Exploring the balance between structure and chaos — in code and in life.
-
-[![Static Badge](https://img.shields.io/badge/Telegram-@durovpalsu-blue?style=social&logo=telegram)](https://t.me/durovpalsu)
+- Exploring runtime optimization and language-level abstractions
+- Interested in hackathons, deep dives, and late-night refactoring
+- MBTI: INTJ
+- Exploring the balance between structure and chaos, in code and in life
